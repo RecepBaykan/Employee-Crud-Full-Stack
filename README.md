@@ -17,7 +17,7 @@ This is a simple full-stack application for managing employees, built with Sprin
 
 2. Navigate to the backend directory:
     ```bash
-    cd Employee-Crud-Full-Stack/backend
+    cd Employee-Crud-Full-Stack/Srpingboot
     ```
 
 3. Use Maven to install or update the project dependencies:
