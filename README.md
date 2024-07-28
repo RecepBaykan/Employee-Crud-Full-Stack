@@ -10,10 +10,9 @@ This is a simple full-stack application for managing employees, built with Sprin
 - **npm**
 
 ## Backend Setup (Spring Boot)
-
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/employee-management.git
+    git clone https://github.com/RecepBaykan/Employee-Crud-Full-Stack.git
     ```
 
 2. Navigate to the backend directory:
